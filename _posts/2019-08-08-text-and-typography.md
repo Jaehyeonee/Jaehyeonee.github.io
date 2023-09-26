@@ -1,24 +1,35 @@
 ---
-title: Text and Typography
+title: 2023 숙명 X aws X streamlit X 오뚜기 Hakathon 회고 [1등 수상]
 author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+date: 2023-09-23 11:33:00 +0800
+categories: [Blogging, 회고]
+tags: [회고]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /commons/devices-mockup.png
+  path: http://campustown.sookmyung.ac.kr/cmm/fms/getImage.do?atchFileId=FILE_000000000001096&fileSn=0
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
-## Headings
 
-# H1 - heading
-{: .mt-4 .mb-0 }
+🏆 Hakathon 1등 수상 회고를 해보려고 한다.
+
+
+# 대회소개
+AWS와 함께 오뚜기사의 데이터와 Gen AI를 활용하여 Streamlit 또는 Cloud native App을 개발하는 해커톤으로, 일정은 2023년 9월 22일(금) ~ 9월 23일(토) 무박 2일로 진행되었다.
+시상 내역은 아래와 같다.
+
+    시상내역
+    - 오뚜기 상(100만원)
+    - Snow 상(50만원)
+    - AWS 상(AWS Stock 팀원당 1주)
+    - Slack 상(50만원)
+    - 인기상(30만원)
+
+
 
 ## H2 - heading
 {: data-toc-skip='' .mt-4 .mb-0 }
