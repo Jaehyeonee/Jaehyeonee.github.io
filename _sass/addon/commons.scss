@@ -706,12 +706,14 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background:  url('assets/img/sidebar.jpeg'); //var(--sidebar-bg);
+  background:  url('/assets/img/sidebar.jpeg'); //var(--sidebar-bg);
   // border-right: 1px solid var(--sidebar-border-color);
   background-size: cover;  /*이미지의 size가 보여질 부분의 사이즈와 다른 경우에는 이미지 크기를 꽉차게 만든다 */
   background-repeat: no-repeat;
+  background-position: center;
 
-  /* Hide scrollbar for Chrome, Safari and Opera */
+  /* Hide scrollbar for Chrome, Saf
+  ari and Opera */
   &::-webkit-scrollbar {
     display: none;
   }
@@ -928,7 +930,7 @@ $btn-mb: 0.5rem;
 
 #topbar {
   button i {
-    color: #999999;
+    color: #050000;
   }
 
   #breadcrumb {
@@ -1084,7 +1086,7 @@ search {
 
     /* icons */
     i {
-      color: #818182;
+      color: #0b0bff;
       margin-right: 0.15rem;
       font-size: 80%;
     }
