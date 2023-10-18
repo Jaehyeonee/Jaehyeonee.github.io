@@ -1,5 +1,5 @@
 ---
-title: Algorithm:이진탐색(Binary Search)
+title: Algorithm. 이진탐색(Binary Search)
 author: jaehyeonee
 date: 2023-10-05 15:35:00 +0800
 categories: [Study, Algorithm]
