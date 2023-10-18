@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 
 title: Developer &nbsp; Jenzennii # the main title
 
-tagline: 차곡차곡 쌓아가는 개발 PORTFORLIO # it will display as the sub-title
+tagline: 차곡차곡 쌓아가는 개발 일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
