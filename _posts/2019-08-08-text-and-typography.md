@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: http://campustown.sookmyung.ac.kr/cmm/fms/getImage.do?atchFileId=FILE_000000000001096&fileSn=0
+  path: https://github.com/Jaehyeonee/codingTest-study/assets/92504386/17e82f38-5973-4990-a0ad-69194ae52efd
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Responsive rendering 
 ---
