@@ -31,7 +31,7 @@ github:
   username: Jaehyeonee # change to your github username
 
 # twitter:
-#   username: twitter_username # change to your twitter username
+#   username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -46,7 +46,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: sfzdkkS0P_M607KLqMoWMLofG8O5PxT_d43TDSePlB0 # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
