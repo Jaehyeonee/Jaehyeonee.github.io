@@ -2,6 +2,7 @@
 .bundle
 vendor
 Gemfile.lock
+Gemfiles.lock
 
 # Jekyll cache
 .jekyll-cache
